@@ -1,15 +1,9 @@
-## Hi there 👋
-🔭 I’m currently working on building my skills in web development , Data Analysis , Machine Learning , DataBases and cybersecurity.
+# Hello! 🌸ʚ ᧔ෆ᧓ ɞ
+I'm a semi-senior university student, I'm also a junior Front-End Web Developer, aspiring to become a Full-Stack Web Developer. I'm passionate about learning new technologies and building efficient real-world websites and applications.
 
-🌱 I’m currently learning PHP, UI/UX design , Three.js and Networking.
+## ⚙️ Tech Stack & Tools
 
-💬 Ask me about web design and programming concepts.
 
-📫 How to reach me: You can reach me via email at [malak.magdy888808@gmail.com] or connect with me on LinkedIn at [my LinkedIn](https://www.linkedin.com/in/malak-magdy-771441311/).
-<!--
-**pretty-bunny/pretty-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect With Me
 
-Here are some ideas to get you started:
-
-- 
--->
+- 💼 [LinkedIn](www.linkedin.com/in/malak-magdy-m-amr)
