@@ -36,5 +36,5 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
 
 
 ## Connect With Me
-
-- [LinkedIn](www.linkedin.com/in/malak-magdy-m-amr)
+### linkedIn
+- [www.linkedin.com/in/malak-magdy-m-amr](www.linkedin.com/in/malak-magdy-m-amr)
