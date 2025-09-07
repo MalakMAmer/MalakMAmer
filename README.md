@@ -17,9 +17,9 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
 <pre>
   . a portfolio web page showing my experience in: HTML and CSS
 </pre>
-### Sign Up page: [website link](https://login-page-3cy1pwuhf-malakmagdyamrs-projects.vercel.app/)
+### Login page: [website link](https://login-page-nw96.vercel.app/)
 <pre>
-  . Sign Up page showing my experience in: HTML, CSS, JS, Forms, validations and react.js
+  . Login page showing my experience in: HTML, CSS, JS, Forms, validations and react.js
 </pre>
 ### memory game: [website link](https://malakmamer.github.io/memoryGame/)
 <pre>
