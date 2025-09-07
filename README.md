@@ -21,7 +21,7 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
 <pre>
   . Login page showing my experience in: HTML, CSS, JS, Forms, validations and react.js
 </pre>
-### memory game: [website link](https://malakmamer.github.io/memoryGame/)
+### memory game: [website link](https://memory-game-six-sage-76.vercel.app/)
 <pre>
   . a memory card game showing my experience in: HTML, CSS, games logic and js
 </pre>
