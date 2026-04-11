@@ -1,13 +1,13 @@
-# Hello! 🌸ʚ ᧔ෆ᧓ ɞ
-I'm a semi-senior university student, I'm also a junior Front-End Web Developer, aspiring to become a Full-Stack Web Developer. I'm passionate about learning new technologies and building efficient real-world websites and applications.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Malak%20Magdy%20Ahmed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20engineer%2F%20Full%20stack%20web%20developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MalakMAmer">
     <img src="https://komarev.com/ghpvc/?username=MalakMAmer&label=Profile%20views&color=00FFFF&style=flat-square" alt="MalakMAmer's profile views" />
   </a>
-</p>
+</p> -->
+
+# Hello! 🌸ʚ ᧔ෆ᧓ ɞ
+I'm a semi-senior university student, I'm also a junior Front-End Web Developer, aspiring to become a Full-Stack Web Developer. I'm passionate about learning new technologies and building efficient real-world websites and applications.
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -49,18 +49,7 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
   </a>
 </p>
 
-## 🌸 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/malak-magdy-m-amr/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Malak Magdy Ahmed's LinkedIn"/></a> <a href="https://x.com/malakmmamer" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Malak Magdy Ahmed's Twitter"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
 
 
@@ -95,8 +84,17 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
  . a Learning platform page showing my experience in: HTML and CSS
 </pre>
 
+## 🌸 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/malak-magdy-m-amr/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Malak Magdy Ahmed's LinkedIn"/></a> <a href="https://x.com/malakmmamer" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Malak Magdy Ahmed's Twitter"/></a></p>
 
-## Connect With Me
-<a href="https://www.linkedin.com/in/malak-magdy-m-amr" target="_blank" rel="noopener noreferrer">
-  My LinkedIn
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
