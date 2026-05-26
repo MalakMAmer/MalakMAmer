@@ -79,6 +79,8 @@ I'm a semi-senior university student, I'm also a junior Front-End Web Developer,
 <pre>
   . A Website inspired by "The Met" museum showing my experience in: HTML and CSS
 </pre>
+<br />
+<br />
 
 ## Top Projects
 
